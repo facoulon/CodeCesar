@@ -9,6 +9,7 @@ div {
 }
 
 textarea {
+  font-size: 3em;
   width: 25%;
   height: 5em;
   margin : 2em;
@@ -19,4 +20,13 @@ label {
   font-size: 4em;
   width: 25%;
   display: inline-block;
+}
+
+input{
+  font-size: 3em;
+  /* height:10em; */
+}
+
+button{
+  font-size: 2em;
 }
