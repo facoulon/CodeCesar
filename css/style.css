@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  margin-bottom: 2em;
+  flex-wrap: wrap;
+}
+
+div {
+  width: 100%;
+}
+
+textarea {
+  width: 25%;
+  height: 5em;
+  margin : 2em;
+  vertical-align:middle;
+}
+
+label {
+  font-size: 4em;
+  width: 25%;
+  display: inline-block;
+}
